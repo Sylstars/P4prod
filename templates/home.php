@@ -1,7 +1,7 @@
 <?php
 require '../vendor/autoload.php';
 
-use App\src\DAO\ArticleDAO;
+
 ?>
 
 <!DOCTYPE html>
